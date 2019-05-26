@@ -13,7 +13,7 @@ yet:
 
 **Code the UI: UIKit**
 
-  - About this book
+  - [What's in this book](/uikit/whats_in_this_book/)
   - Getting Started
       - What's in an Xcode Project
       - Understanding Storyboards
